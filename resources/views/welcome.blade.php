@@ -38,7 +38,9 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class: titulo>
-                <img class="Peru" src="https://brandemia.org/contenido/subidas/2014/03/marca-pais-peru-logo-004_587_440_901.jpg" width="1090" height="400" alt="">
+
+            <a title="Peru" href="http://127.0.0.1:8000/Pagina%20de%20Inicio"><img class="Peru" src="https://brandemia.org/contenido/subidas/2014/03/marca-pais-peru-logo-004_587_440_901.jpg" width="1090" height="400" alt="@andreGF12"></a>
+                
                 
                 </div>
 
