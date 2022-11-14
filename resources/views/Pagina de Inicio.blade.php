@@ -42,19 +42,19 @@
 
 
 
-<div class="imagen"><a title="" href="http://127.0.0.1:8000/Pronto"><img src="https://www.mundoviajes.org/wp-content/uploads/lima-per%C3%BA.jpg" height="600"></a></div>
+<div class="imagen"><a title="" href="http://localhost:90/Pagina-Grupal-Turismo/resources/views/Costa.blade.php"><img src="https://www.mundoviajes.org/wp-content/uploads/lima-per%C3%BA.jpg" height="600"></a></div>
 <div class="texto" style="font-size: xxx-large">Costa</div>
 </div>
 
 <!--Segunda Imagen-->
 <div class="contenedor_imagen_texto">
-<div class="imagen"><a title="" href="http://127.0.0.1:8000/Pronto"><img src="https://www.blogitravel.com/public_html/blogitravel/wp-content/uploads/2009/10/sierra-del-peru2.webp" height="600"></a></div>
+<div class="imagen"><a title="" href="http://localhost:90/Pagina-Grupal-Turismo/resources/views/Sierra.blade.php"><img src="https://www.blogitravel.com/public_html/blogitravel/wp-content/uploads/2009/10/sierra-del-peru2.webp" height="600"></a></div>
 <div class="texto" style="font-size: xxx-large">Sierra</div>
 </div>
 
 <!--tercera Imagen-->
 <div class="contenedor_imagen_texto">
-<div class="imagen"><a title="" href="http://127.0.0.1:8000/Pronto"><img src="https://elperuano.pe/fotografia/thumbnail/2021/11/07/000138274M.jpg" height="600"></a></div>
+<div class="imagen"><a title="" href="http://localhost:90/Pagina-Grupal-Turismo/resources/views/Selva.blade.php"><img src="https://elperuano.pe/fotografia/thumbnail/2021/11/07/000138274M.jpg" height="600"></a></div>
 <div class="texto" style="font-size: xxx-large">Selva</div>
 </div>
 </div>

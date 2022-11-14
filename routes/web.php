@@ -24,3 +24,15 @@ Route::get('/Pagina de Inicio', function () {
 Route::get('/Pronto', function () {
     return view('Pronto');
 });
+
+Route::get('/Costa', function () {
+    return view('Costa');
+});
+
+Route::get('/Sierra', function () {
+    return view('Sierra');
+});
+
+Route::get('/Selva', function () {
+    return view('Selva');
+});
